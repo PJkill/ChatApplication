@@ -56,3 +56,29 @@ Represents a message with sender, recipient, content, and status flags (sent, re
 ## 📝 Message Hash Example
 
 The message hash format:
+
+---
+
+## 📂 Output File
+
+Stored messages are saved in a file named `stored_messages.json` in a simple JSON-style format, allowing future extension for proper JSON handling or integration with APIs or databases.
+
+---
+
+## 📦 Requirements
+
+- Java 8 or later
+- No external dependencies
+
+---
+
+## ▶️ Running the Application
+
+1. Compile the Java files:
+```bash
+javac ChatApplication.java
+java ChatApplication
++27821234567
+27821234567
+0821234567
+
